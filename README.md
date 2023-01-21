@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <hr>
 <br> 
-<p><img align="right" width="35%" height="350px"  style="border-radius: 15px 0 0 50px;  " src="https://i.pinimg.com/originals/a0/41/a4/a041a46bc59f2a35a88ad59408bf8e34.gif" alt="about me" /> </p>
+<p><img align="right" width="45%" height="350px"  style="border-radius: 15px 0 0 50px;  " src="https://i.pinimg.com/originals/a0/41/a4/a041a46bc59f2a35a88ad59408bf8e34.gif" alt="about me" /> </p>
 
 <br>
 
