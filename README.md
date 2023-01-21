@@ -47,7 +47,7 @@
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=h3x4d1v1n3%40gmail.com)](https://git.io/typing-svg)**
 
 - ⚡ Fun fact  <br>
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=EARTH+IS+NOT+FLAT)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=DIMENSION+C-137+IS+NOT+FLAT)](https://git.io/typing-svg)**
 
 <hr>
 
