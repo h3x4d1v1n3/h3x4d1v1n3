@@ -53,12 +53,12 @@
 
 #### GitHub Stats
 
-| ![h3x4d1v1n3's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3x4d1v1n3&show_icons=true&theme=merko) | [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=h3x4d1v1n3&show_icons=true&theme=dracula&layout=compact)](https://github.com/h3x4d1v1n3/github-readme-stats) |
+| ![h3x4d1v1n3's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3x4d1v1n3&show_icons=true&theme=highcontrast) | [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=h3x4d1v1n3&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/h3x4d1v1n3/github-readme-stats) |
 | ------------- | ------------- |
 
 #### Top Repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3x4d1v1n3&repo=technical_analysis&show_icons=true&theme=dracula)](https://github.com/h3x4d1v1n3/technical_analysis) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3x4d1v1n3&repo=technical_analysis&show_icons=true&theme=dracula)](https://github.com/h3x4d1v1n3/technical_analysis)  |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3x4d1v1n3&repo=technical_analysis&show_icons=true&theme=highcontrast)](https://github.com/h3x4d1v1n3/technical_analysis) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h3x4d1v1n3&repo=technical_analysis&show_icons=true&theme=highcontrast)](https://github.com/h3x4d1v1n3/technical_analysis)  |
 | ------------- | ------------- |
 
 
